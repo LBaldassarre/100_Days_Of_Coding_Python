@@ -6,3 +6,5 @@ You will be able to watch my progress in this file as I will be listing each day
 ## Content
 - **Day 1 *[Beginner]*:** Working with variables in python to manage Data
     - **Final Project:** Band Name Generator
+- **Day 2 *[Beginner]*:** Understanding Data Types and How to Manipulate Strings
+    - **Final Project:** Tip Calculator
