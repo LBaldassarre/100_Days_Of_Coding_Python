@@ -8,3 +8,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Band Name Generator
 - **Day 2 *[Beginner]*:** Understanding Data Types and How to Manipulate Strings
     - **Final Project:** Tip Calculator
+- **Day 3 *[Beginner]*:** Control Flow and Logical Operators
+    - **Final Project:** Treasure Island
