@@ -10,3 +10,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Tip Calculator
 - **Day 3 *[Beginner]*:** Control Flow and Logical Operators
     - **Final Project:** Treasure Island
+- **Day 4 *[Beginner]*:** Randomization and Python Lists
+    - **Final Project:** Rock Paper Scissors
