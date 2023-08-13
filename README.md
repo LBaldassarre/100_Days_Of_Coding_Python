@@ -14,3 +14,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Rock Paper Scissors
 - **Day 5 *[Beginner]*:** Python Loops
     - **Final Project:** Password Generator
+- **Day 6 *[Beginner]*:** Python Functions and Karel
+    - **Final Project:** Escaping the Maze *[Done in reborg.ca]*
