@@ -12,3 +12,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Treasure Island
 - **Day 4 *[Beginner]*:** Randomization and Python Lists
     - **Final Project:** Rock Paper Scissors
+- **Day 5 *[Beginner]*:** Python Loops
+    - **Final Project:** Password Generator
