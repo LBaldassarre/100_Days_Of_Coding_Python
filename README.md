@@ -16,3 +16,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Password Generator
 - **Day 6 *[Beginner]*:** Python Functions and Karel
     - **Final Project:** Escaping the Maze *[Done in reborg.ca]*
+- **Day 7 *[Beginner]*:** Hangman
+    - **Final Project:** Hangman
