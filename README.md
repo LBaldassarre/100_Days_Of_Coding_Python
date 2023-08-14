@@ -20,3 +20,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Hangman
 - **Day 8 *[Beginner]*:** Function Parameters and Caesar Cipher
     - **Final Project:** Caesar Cipher
+- **Day 9 *[Beginner]*:** Dictionaries, Nesting and The Secret Auction
+    - **Final Project:** The Secret Auction
