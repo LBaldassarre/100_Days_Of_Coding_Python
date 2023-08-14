@@ -18,3 +18,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Escaping the Maze *[Done in reborg.ca]*
 - **Day 7 *[Beginner]*:** Hangman
     - **Final Project:** Hangman
+- **Day 8 *[Beginner]*:** Function Parameters and Caesar Cipher
+    - **Final Project:** Caesar Cipher
