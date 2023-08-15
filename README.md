@@ -4,21 +4,23 @@ Hi guys, I am Lucas Baldassarre and will be going through the **100 Days of Code
 You will be able to watch my progress in this file as I will be listing each day topic and final project as I go.
 
 ## Content
-- **Day 1 *[Beginner]*:** Working with variables in python to manage Data
+- **Day 001 *[Beginner]*:** Working with variables in python to manage Data
     - **Final Project:** Band Name Generator
-- **Day 2 *[Beginner]*:** Understanding Data Types and How to Manipulate Strings
+- **Day 002 *[Beginner]*:** Understanding Data Types and How to Manipulate Strings
     - **Final Project:** Tip Calculator
-- **Day 3 *[Beginner]*:** Control Flow and Logical Operators
+- **Day 003 *[Beginner]*:** Control Flow and Logical Operators
     - **Final Project:** Treasure Island
-- **Day 4 *[Beginner]*:** Randomization and Python Lists
+- **Day 004 *[Beginner]*:** Randomization and Python Lists
     - **Final Project:** Rock Paper Scissors
-- **Day 5 *[Beginner]*:** Python Loops
+- **Day 005 *[Beginner]*:** Python Loops
     - **Final Project:** Password Generator
-- **Day 6 *[Beginner]*:** Python Functions and Karel
+- **Day 006 *[Beginner]*:** Python Functions and Karel
     - **Final Project:** Escaping the Maze *[Done in reborg.ca]*
-- **Day 7 *[Beginner]*:** Hangman
+- **Day 007 *[Beginner]*:** Hangman
     - **Final Project:** Hangman
-- **Day 8 *[Beginner]*:** Function Parameters and Caesar Cipher
+- **Day 008 *[Beginner]*:** Function Parameters and Caesar Cipher
     - **Final Project:** Caesar Cipher
-- **Day 9 *[Beginner]*:** Dictionaries, Nesting and The Secret Auction
+- **Day 009 *[Beginner]*:** Dictionaries, Nesting and The Secret Auction
     - **Final Project:** The Secret Auction
+- **Day 010 *[Beginner]*:** Functions With Outputs
+    - **Final Project:** Calculator
