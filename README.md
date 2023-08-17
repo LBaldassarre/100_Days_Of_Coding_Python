@@ -24,3 +24,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** The Secret Auction
 - **Day 010 *[Beginner]*:** Functions With Outputs
     - **Final Project:** Calculator
+- **Day 011 *[Beginner]*:** The Blackjack Capstone Project
+    - **Final Project:** Blackjack
