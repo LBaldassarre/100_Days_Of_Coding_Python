@@ -26,3 +26,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Calculator
 - **Day 011 *[Beginner]*:** The Blackjack Capstone Project
     - **Final Project:** Blackjack
+- **Day 012 *[Beginner]*:** Scope & Number Guessing Game
+    - **Final Project:** Number Guessing Game
