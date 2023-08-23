@@ -28,3 +28,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Blackjack
 - **Day 012 *[Beginner]*:** Scope & Number Guessing Game
     - **Final Project:** Number Guessing Game
+- **Day 013 *[Beginner]*:** Debugging: How to Find and Fix Errors in your Code
+    - **Final Project:** No Project
