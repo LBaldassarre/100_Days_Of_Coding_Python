@@ -30,3 +30,5 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** Number Guessing Game
 - **Day 013 *[Beginner]*:** Debugging: How to Find and Fix Errors in your Code
     - **Final Project:** No Project
+- **Day 014 *[Beginner]*:** Higher Lower Game Project
+    - **Final Project:** Higher Lower Game
