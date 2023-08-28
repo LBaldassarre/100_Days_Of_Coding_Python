@@ -32,3 +32,8 @@ You will be able to watch my progress in this file as I will be listing each day
     - **Final Project:** No Project
 - **Day 014 *[Beginner]*:** Higher Lower Game Project
     - **Final Project:** Higher Lower Game
+    
+<br>
+
+- **Day 015 *[Intermediate]*:** Local Development Environment Set Up and The Coffee Machine
+    - **Final Project:** The Coffee Machine
