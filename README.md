@@ -37,3 +37,5 @@ You will be able to watch my progress in this file as I will be listing each day
 
 - **Day 015 *[Intermediate]*:** Local Development Environment Set Up and The Coffee Machine
     - **Final Project:** The Coffee Machine
+- **Day 016 *[Intermediate]*:** Object Oriented Programing (OOP)
+    - **Final Project:** The Coffee Machine in OOP
